@@ -15,3 +15,4 @@ abstract class Vehicle {
     public void displayInfo() {
         System.out.println("This is a " + brand + " vehicle.");
     }
+}
