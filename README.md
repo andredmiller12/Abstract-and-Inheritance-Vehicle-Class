@@ -12,6 +12,7 @@ A public method getBrand() that returns the brand
 An abstract method getMaxSpeed() that returns an int
 
 A concrete method displayInfo() that prints:
+    "This is a [brand] vehicle."
 
 2. Subclasses
 
